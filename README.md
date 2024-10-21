@@ -9,5 +9,5 @@ My program implements some built-in commands; the list of required commands is [
 
 
 # Watch video for more details
-[![Watch the video](https://yt-embed.herokuapp.com/embed?v=Z1-_PbEAfkA)](https://www.youtube.com/watch?v=Z1-_PbEAfkA)
+[![Watch the video](https://img.youtube.com/vi/Z1-_PbEAfkA/0.jpg)](https://www.youtube.com/watch?v=Z1-_PbEAfkA)
 
